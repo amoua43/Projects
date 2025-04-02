@@ -1,0 +1,3 @@
+[BurgerOrder{numHamburgers=4, numCheeseburgers=4, numVeggieburgers=4, numSodas=4, orderToGo=true, orderNum=1}
+, BurgerOrder{numHamburgers=3, numCheeseburgers=3, numVeggieburgers=3, numSodas=3, orderToGo=true, orderNum=1}
+]
