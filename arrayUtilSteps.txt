@@ -1,0 +1,25 @@
+arrayUtil class
+
+    initialize intArray 
+    initialize array placeholder for loops
+
+    array constructor to build array in main method
+
+    array accessor to make private int useable from main method
+
+    array mutator to reset value of array if needed
+
+    minValue method to calculate lowest number in array 
+        loop to go through the number of values in the array, stopping at the end
+            nested loop to cycle through the values themselves
+
+    maxValue method to calculate highest number in array
+        loop to go through the number of values in the array, stopping at the end   
+            nested loop to cycle through the values themselves
+
+    countUniqueIntegers method, loop through and add counter to duplicate values
+        Values that keep counter at 1 get returned as unique values 
+
+
+main method 
+    example showing that methods work on a sample array of integers
